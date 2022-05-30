@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.profile-pic {
+  height: 300px;
+  width: 300x;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.btn-like,
+.btn-dislike{
+  font-size: 2rem;
+}
+.btn-like{
+  margin-right: 1rem;
+}
+
+.user-container{
+  padding: 1rem;
+  border-top: 5px solid blue;
+}
