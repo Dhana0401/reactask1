@@ -99,7 +99,7 @@ function Black(props) {
   // const name = "Dhanush";
   return (
     <div className="user-container">
-      <h1> HI,{props.name}😉☠🍻</h1>
+      <h1> Welcome,{props.name}😉☠🍻</h1>
       <img className="profile-pic" src={props.pic} alt={props.name} />
     <Counter/>
     </div>
