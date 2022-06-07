@@ -20,3 +20,7 @@
   padding: 1rem;
   border-top: 5px solid blue;
 }
+
+.add-color{
+display: flex;
+}
